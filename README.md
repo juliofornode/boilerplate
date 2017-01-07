@@ -1,4 +1,4 @@
-# React Speed Coding
+# React Boilerplate
 React App focused on performance
 
 ## Tools Used in this project
